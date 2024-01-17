@@ -26,7 +26,7 @@ const myFavoriteFootballTeam = {
       position: "midfielder",
       number: 2,
       isCaptain: false,
-      nickname: null,
+      nickname: "Checho",
     },
      {
       name: "Ricardo Bochini",
@@ -82,21 +82,21 @@ const myFavoriteFootballTeam = {
       position: "midfielder",
       number: 10,
       isCaptain: true,
-      nickname: "El Pibe de Oro",
+      nickname: "El Diego",
     },
     {
       name: "Jorge Valdano",
       position: "forward",
       number: 11,
       isCaptain: false,
-      nickname: "The Philosopher of Football",
+      nickname: "El filosofo",
     },
     {
       name: "Héctor Enrique",
       position: "midfielder",
       number: 12,
       isCaptain: false,
-      nickname: null,
+      nickname: "el Negro",
     },
     {
       name: "Oscar Garré",
@@ -110,7 +110,7 @@ const myFavoriteFootballTeam = {
       position: "midfielder",
       number: 14,
       isCaptain: false,
-      nickname: null,
+      nickname: "el Gringo",
     },
     {
       name: "Luis Islas",
@@ -124,7 +124,7 @@ const myFavoriteFootballTeam = {
       position: "defender",
       number: 16,
       isCaptain: false,
-      nickname: null,
+      nickname: "el Vasco",
     },
     {
       name: "Pedro Pasculli",
